@@ -1,0 +1,7 @@
+{
+  "name": "Copy of VitalTrack AI",
+  "description": "A personalized goal-based health tracker with AI-powered insights, lifestyle tracking, and eco-friendly product recommendations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
