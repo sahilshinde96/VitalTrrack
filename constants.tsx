@@ -14,7 +14,7 @@ import {
   Utensils,
   Stethoscope
 } from 'lucide-react';
-import { ProductRecommendation, HealthGoal, Exercise } from './types';
+import { ProductRecommendation, HealthGoal, Exercise, Pamphlet } from './types';
 
 export const NAVIGATION_ITEMS = [
   { id: 'dashboard', label: 'Dashboard', icon: <LayoutDashboard size={20} /> },
